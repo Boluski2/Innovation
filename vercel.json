@@ -1,6 +1,6 @@
 {
     "rewrites":[
-       { "source": "/(.*)","destination": "/chinainnovation.html"
+       { "source": "/(.*)","destination": "/index.html"
     }
 ]
 }
